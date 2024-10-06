@@ -4,7 +4,7 @@
 
 ## FormicID:
 
-![Screenshot 2024-10-06 at 3.14.15 PM.png](/Screenshot 2024-10-06 at 3.14.15 PM.png)
+![logo](https://raw.githubusercontent.com/sgriz1/tfcb-homework01/refs/heads/main/logo.png)
 
 This code describes a model for submitting photos of desired species, wtih the goal of correctly classifying these images based on a database of known insects. 
 
